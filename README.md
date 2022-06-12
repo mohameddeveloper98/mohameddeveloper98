@@ -1,4 +1,4 @@
-##                                                              Hello 👋, I'm Muhammad Siddik
+##                                                             Hello 👋, I'm Muhammad Siddik
 
 <!--
 **mohameddeveloper98/mohameddeveloper98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
