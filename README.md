@@ -9,9 +9,13 @@
 
 - 📫 How to reach me:
 --- E-mail: muhammadm.siddik98@gmail.com
+
 --- Linked-in: https://www.linkedin.com/in/muhammed-m-siddik-103
+
 --- Git-Hub: https://github.com/mohameddeveloper98
+
 --- wuzzaf: Wuzzuf.net/me/Muhammad-Siddik
+
 --- CV: https://drive.google.com/file/d/1yyWVuisnWf84Vgh_Ea4oj6AJ0e-ojMri/view?usp=sharing
 
 
