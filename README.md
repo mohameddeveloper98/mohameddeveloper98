@@ -1,9 +1,6 @@
 ##                                                             Hello 👋, I'm Muhammad Siddik
 
-<!--
-**mohameddeveloper98/mohameddeveloper98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently Studying at Information Technology Institute (ITI) AI and Machine Learning Track - 9 Month Program
 - 🌱 I’m currently learning Machine learning & deep learning
