@@ -1,9 +1,8 @@
 ##                                                             Hello 👋, I'm Muhammad Siddik
 
 
-
-- 🔭 I’m currently Studying at Information Technology Institute (ITI) AI and Machine Learning Track - 9 Month Program
-- 🌱 I’m currently learning Machine learning & deep learning
+- I'm a Software Engineer at Valeo 2022 - Present
+- 🔭 I studied at the Information Technology Institute (ITI) AI and Machine Learning Track - 9 Month Program - Graduated 2022
 - 📝 I'm a graduate of the Faculty of Engineering, Electronics, and Communications Department in 2021.
 
 
