@@ -13,11 +13,3 @@
 --- Linked-in: https://www.linkedin.com/in/muhammed-m-siddik-103
 
 --- Git-Hub: https://github.com/mohameddeveloper98
-
---- wuzzaf: https://Wuzzuf.net/me/Muhammad-Siddik
-
---- CV: https://drive.google.com/file/d/1yyWVuisnWf84Vgh_Ea4oj6AJ0e-ojMri/view?usp=sharing
-
-
-
-
